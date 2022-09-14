@@ -3,7 +3,7 @@
   "currency_symbol": "R$",
   "primary_color": "#222831",
   "theme": {
-    "bootswatch": "_",
+    "bootswatch": "litera",
     "custom": "clean-white"
   },
   "bg_color": "#ffffff",
@@ -15,7 +15,7 @@
   "mini_logo": "",
   "font_family": "_",
   "favicon": "/img/uploads/novo-logo34.png",
-  "icons_font": "_",
+  "icons_font": "feather-icons",
   "country_code": "BR",
   "secondary_color": "#393e46",
   "icon": "/img/uploads/novo-logo34.png",
