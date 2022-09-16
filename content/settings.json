@@ -1,6 +1,5 @@
 {
   "domain": "tecbytes.com.br",
-  "repository": "ecomplus-stores/tecbytes",
   "currency_symbol": "R$",
   "primary_color": "#222831",
   "theme": {
@@ -8,6 +7,7 @@
     "custom": "clean-white"
   },
   "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/tecbytes",
   "logo": "/img/uploads/novo-logo3.png",
   "name": "Tecbytes comercio de eletronicos e licenças premium",
   "short_name": "tecbytes",
@@ -21,6 +21,6 @@
   "secondary_color": "#393e46",
   "icon": "/img/uploads/novo-logo34.png",
   "store_id": 47157,
-  "description": "tecbytes",
+  "description": "Tecbytes comercio de eletronicos e licenças premium",
   "large_icon": "/img/uploads/novo-logo34.png"
 }
