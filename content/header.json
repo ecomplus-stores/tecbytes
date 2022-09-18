@@ -15,7 +15,12 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/windows?Windows",
+      "/sistemas?Sistemas",
+      "/corel?Corel",
+      "/corel?Corel"
+    ],
     "random": 6,
     "full_width": true
   },
