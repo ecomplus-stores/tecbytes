@@ -18,7 +18,8 @@
     "featured": [
       "/windows?Windows",
       "/sistemas?Sistemas",
-      "/corel?Corel"
+      "/corel?Corel",
+      "/office?Office"
     ],
     "random": 6,
     "full_width": true
