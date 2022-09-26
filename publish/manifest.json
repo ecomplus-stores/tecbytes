@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.617f71bc1250b5a3247e8667a0cff65e.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.5a7915981c85252bee5262a94f68044e.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.33b58d9835e0fb6c95773ad542269fd3.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.0873fb44c52b2ff0a8d77e6073952187.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.07e57733be1841aec32af7230e70ac02.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Tecbytes comercio de eletronicos e licenças premium",
+  "short_name": "tecbytes",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "comercio de eletrônicos e licenças premium",
+  "background_color": "#ffffff",
+  "theme_color": "#222831"
+}
